@@ -1,2 +1,2 @@
 # student-data-preprocessor
-Automated pipeline for tidying academic datasets in Comparative Education research.
+An Automated pipeline for tidying academic datasets in Comparative Education research.
